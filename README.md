@@ -4,7 +4,7 @@
 👨‍🎓 Graduated in Industrial Engineering
 ⏳ 6 Years total work experience with programming
 
-#Tech Stack
+# Tech Stack
 
 
 📫 How to reach me: ✉ brunofurtado97@gmail.com
