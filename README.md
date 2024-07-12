@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there,  I'm Bruno 👋
+# About Me
+💻 Software Engineer, currently working with High-Frequency Trading Algorithms
+👨‍🎓 Graduated in Industrial Engineering
+⏳ 6 Years total work experience with programming
+
+#Tech Stack
+
+
+📫 How to reach me: ✉ brunofurtado97@gmail.com
+
+
 
 <!--
 **brnfurtado/brnfurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
