@@ -10,11 +10,11 @@
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas" height="50" /></a>
-<img pointer-events="none" cursor="default" "style="pointer-events: none; cursor: default; margin: 10px" src="https://static.thenounproject.com/png/1729056-200.png" alt="Line" height="50" /></img>
+<img "style="pointer-events: none; cursor: default; margin: 10px" src="https://static.thenounproject.com/png/1729056-200.png" alt="Line" height="50" /></img>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<img pointer-events="none" cursor="default" "style="pointer-events: none; cursor: default; margin: 10px" src="https://static.thenounproject.com/png/1729056-200.png" alt="Line" height="50" /></img>
+<img "style="pointer-events: none; cursor: default; margin: 10px" src="https://static.thenounproject.com/png/1729056-200.png" alt="Line" height="50" /></img>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
