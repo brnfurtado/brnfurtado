@@ -1,4 +1,4 @@
-# Hi there,  I'm Bruno, a Quant Trader with focus on Crypto HFT Algorithms 🚀
+# Hi there,  I'm Bruno, a Quant Trader for crypto HFT Algorithms 🚀
 ## About Me
 - 💻 Software Engineer, currently working with High-Frequency Trading Algorithms
 - 👨‍🎓 Graduated in Industrial Engineering
