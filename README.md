@@ -1,7 +1,8 @@
-# Hi there,  I'm Bruno, a full-time .Net Developer 🚀
+# Hi there,  I'm Bruno, a Quant Trader with focus on Crypto HFT Algorithms 🚀
 ## About Me
 - 💻 Software Engineer, currently working with High-Frequency Trading Algorithms
 - 👨‍🎓 Graduated in Industrial Engineering
+- ⏳ 4 Years total work experience with quantiative trading
 - ⏳ 6 Years total work experience with programming
 
 ## Technologies
